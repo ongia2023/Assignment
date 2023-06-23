@@ -1,0 +1,19 @@
+
+.btn-primary{
+    border-radius:50px;
+}
+.section-title{
+    font-family: Gilroy-Bold;
+    font-size: 48px;
+    line-height: 96px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+.description {
+    font-family: Gilroy-Medium;
+    font-size: 18px;
+}
+.text-center{
+    display: flex;
+    flex-direction: row;
+}
